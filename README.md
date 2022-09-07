@@ -9,8 +9,6 @@ A study guide created for the UT coding bootcamp. This guide is intended to prep
 
 To use the study guide, read the notes in each section. To receive a random study topic suggestion, open the console panel found in the browser's inspector.
 
-![alt text](assets/images/screenshot.png)
-
 
 ## Credits
 
